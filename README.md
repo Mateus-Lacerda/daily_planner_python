@@ -59,18 +59,8 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 Contributions are welcome! Please fork the repository and use a feature branch. Pull requests are warmly welcome.
 
-1. Fork the repository (`https://github.com/yourusername/ObjetivosApp/fork`)
+1. Fork the repository (`https://github.com/Mateus-Lacerda/daily_planner_python/fork`)
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-Your Name - [your.email@example.com](mailto:your.email@example.com)
-
-Project Link: [https://github.com/yourusername/ObjetivosApp](https://github.com/yourusername/ObjetivosApp)
