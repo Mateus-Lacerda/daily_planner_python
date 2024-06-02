@@ -20,23 +20,46 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ### Installation
 
-1. **Clone the repository:**
+1. **Download and Install Python:**
 
-    ```bash
-    git clone https://github.com/yourusername/ObjetivosApp.git
-    cd ObjetivosApp
+    Download and install Python from the official website: [Python.org](https://www.python.org/downloads/)
+
+    Ensure you check the option to add Python to your system PATH during installation.
+
+2. **Download the Code:**
+
+    Download the project as a ZIP file from the GitHub repository:
+
+    ```url
+    https://github.com/yourusername/ObjetivosApp/archive/refs/heads/main.zip
     ```
 
-2. **Set up the environment:**
+    Extract the ZIP file to a directory of your choice.
 
-    Since Tkinter comes pre-installed with Python, there is no need to install it separately. Just ensure Python and pip are correctly installed.
+3. **Install the Dependencies:**
+
+    Open Command Prompt and navigate to the extracted directory.
+
+    ```bash
+    cd path\to\extracted\directory
+    ```
+
+    Install the required dependencies:
+
+    ```bash
+    pip install tk
+    ```
 
 ### Running the Application
 
-1. **Run the application:**
+1. **Run the Application:**
+
+    After installing Python and extracting the code, run the application by executing the `DayPlan+.bat` file.
+
+    Double-click on the `DayPlan+.bat` file or run it from the Command Prompt:
 
     ```bash
-    python main.py
+    DayPlan+.bat
     ```
 
     This will start the application, presenting a dialog to input your daily objectives.
